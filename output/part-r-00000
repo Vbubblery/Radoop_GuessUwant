@@ -1,0 +1,6 @@
+book12	book34=1,cd42=1,dvd32=1,cd12=1
+book32	book34=1,dvd32=1
+book34	dvd32=2,book32=1,book12=1,cd42=1,cd12=1
+cd12	book12=1,book34=1,cd42=1,dvd32=1
+cd42	book12=1,book34=1,dvd32=1,cd12=1
+dvd32	book34=2,book32=1,book12=1,cd42=1,cd12=1
